@@ -1,0 +1,14 @@
+openai 
+tiktoken 
+chromadb 
+langchain
+docx2txt
+pdfminer.six
+unstructured
+pandas
+openpyxl
+python-pptx
+faiss-cpu
+
+azure-search-documents==11.4.0b8
+azure-identity
